@@ -1,7 +1,9 @@
 # Machine Learing with Rust
 
 ### 1. Supervised Learning
+##### 1.1 Machine Regression
 
+Dataset: https://www.kaggle.com/c/boston-housing/data
 
 ### 2. Unsupervised and Reinforcement Learning
 
