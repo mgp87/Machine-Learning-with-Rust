@@ -1,21 +1,21 @@
-# Rust_ML
+# Machine Learing with Rust
 
-### Supervised Learning
-
-
-### Unsupervised and Reinforcement Learning
+### 1. Supervised Learning
 
 
-### Working with Data
+### 2. Unsupervised and Reinforcement Learning
 
 
-### Natural Language Processing
+### 3. Working with Data
 
 
-### Computer Vision
+### 4. Natural Language Processing
 
 
-### Machine Learning Domains
+### 5. Computer Vision
 
 
-### Using Rust Applications
+### 6. Machine Learning Domains
+
+
+### 7. Using Rust Applications
